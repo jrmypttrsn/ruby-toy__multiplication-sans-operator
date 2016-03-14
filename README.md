@@ -4,6 +4,8 @@
 
 ### Objectives
 
+#### Other text
+
 1. Practice thinking through abstract algorithms.
 2. Properly use common data structures.
 
